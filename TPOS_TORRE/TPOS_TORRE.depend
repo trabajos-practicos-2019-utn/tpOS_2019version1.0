@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555421760 source:/home/geminis2/Escritorio/TPOS_TORRE/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"FUNC.h"
+
+1555421760 /home/geminis2/Escritorio/TPOS_TORRE/FUNC.h
+
+1555434176 source:/home/geminis2/Escritorio/TPOS_TORRE/main.c
+	<stdio.h>
+	<stdlib.h>
+	"FUNC.h"
+

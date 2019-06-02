@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1558753427 source:/home/paula/Documentos/SO/Avion/avion.c
+	"avion.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+
+1558750622 /home/paula/Documentos/SO/Avion/avion.h
+
+1558726759 source:/home/paula/Documentos/SO/Avion/main.c
+	<stdlib.h>
+	<stdio.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	"consola.h"
+	"avion.h"
+
+1558726759 /home/paula/Documentos/SO/Avion/consola.h
+	"avion.h"
+
+1558743873 source:/home/paula/Documentos/SO/Avion/consola.c
+	"consola.h"
+	"avion.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+
+1559072400 source:/home/geminis/Descargas/OStp2019-my-branch-Monti/avion.c
+	"avion.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+
+1559072468 /home/geminis/Descargas/OStp2019-my-branch-Monti/avion.h
+
+1559072818 source:/home/geminis/Descargas/OStp2019-my-branch-Monti/consola.c
+	"consola.h"
+	"avion.h"
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+
+1559073065 /home/geminis/Descargas/OStp2019-my-branch-Monti/consola.h
+	"avion.h"
+
+1559069462 source:/home/geminis/Descargas/OStp2019-my-branch-Monti/main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<string.h>
+	"aviones.h"
+	"listaAviones.h"
+
+1558954316 /home/geminis/Descargas/OStp2019-my-branch-Monti/aviones.h
+
+1558954316 /home/geminis/Descargas/OStp2019-my-branch-Monti/listaAviones.h
+	"aviones.h"
+

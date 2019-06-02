@@ -1,0 +1,130 @@
+# depslib dependency file v1.0
+1555445778 source:/home/paula/Documentos/SO/Aeropuerto/funciones.c
+	"funciones.h"
+
+1555445778 /home/paula/Documentos/SO/Aeropuerto/funciones.h
+
+1558938086 source:/home/paula/Documentos/SO/Aeropuerto/main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<string.h>
+	"aviones.h"
+	"listaAviones.h"
+
+1558934725 source:/home/paula/Documentos/SO/Aeropuerto/aviones.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	"aviones.h"
+
+1558934725 /home/paula/Documentos/SO/Aeropuerto/aviones.h
+
+1558937989 source:/home/paula/Documentos/SO/Aeropuerto/listaAviones.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	"listaAviones.h"
+	<arpa/inet.h>
+	<sys/socket.h>
+	<string.h>
+
+1558940273 /home/paula/Documentos/SO/Aeropuerto/listaAviones.h
+	"aviones.h"
+
+1559069462 source:/home/geminis/Descargas/OStp2019-my-branch-Monti/main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<string.h>
+	"aviones.h"
+	"listaAviones.h"
+
+1558954316 /home/geminis/Descargas/OStp2019-my-branch-Monti/aviones.h
+
+1558954316 /home/geminis/Descargas/OStp2019-my-branch-Monti/listaAviones.h
+	"aviones.h"
+
+1559073352 source:/home/geminis/Descargas/OStp2019-my-branch-Monti/aviones.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	"aviones.h"
+
+1558954316 source:/home/geminis/Descargas/OStp2019-my-branch-Monti/listaAviones.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	"listaAviones.h"
+	<arpa/inet.h>
+	<sys/socket.h>
+	<string.h>
+
+1559079497 source:/home/geminis/Descargas/OStp2019-Monti-documentado/aviones.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	"aviones.h"
+
+1559150310 /home/geminis/Descargas/OStp2019-Monti-documentado/aviones.h
+
+1559150310 source:/home/geminis/Descargas/OStp2019-Monti-documentado/listaAviones.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	"listaAviones.h"
+	<arpa/inet.h>
+	<sys/socket.h>
+	<string.h>
+
+1559150311 /home/geminis/Descargas/OStp2019-Monti-documentado/listaAviones.h
+	"aviones.h"
+
+1559084846 source:/home/geminis/Descargas/OStp2019-Monti-documentado/main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<string.h>
+	"aviones.h"
+	"listaAviones.h"
+
+1559079497 source:/home/geminis2/Descargas/OStp2019-Monti-documentado1/OStp2019-Monti-documentado/aviones.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	"aviones.h"
+
+1559150310 /home/geminis2/Descargas/OStp2019-Monti-documentado1/OStp2019-Monti-documentado/aviones.h
+
+1559150310 source:/home/geminis2/Descargas/OStp2019-Monti-documentado1/OStp2019-Monti-documentado/listaAviones.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	"listaAviones.h"
+	<arpa/inet.h>
+	<sys/socket.h>
+	<string.h>
+
+1559150311 /home/geminis2/Descargas/OStp2019-Monti-documentado1/OStp2019-Monti-documentado/listaAviones.h
+	"aviones.h"
+
+1559150360 source:/home/geminis2/Descargas/OStp2019-Monti-documentado1/OStp2019-Monti-documentado/main.c
+	<stdlib.h>
+	<stdio.h>
+	<stdint.h>
+	<arpa/inet.h>
+	<sys/socket.h>
+	<string.h>
+	"aviones.h"
+	"listaAviones.h"
+

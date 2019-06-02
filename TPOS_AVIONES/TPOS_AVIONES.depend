@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555439476 source:/home/geminis/Escritorio/TPOS_AVIONES/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"FUNC.h"
+
+1555439215 /home/geminis/Escritorio/TPOS_AVIONES/FUNC.h
+
+1555439556 source:/home/geminis/Escritorio/TPOS_AVIONES/main.c
+	<stdio.h>
+	<stdlib.h>
+	"FUNC.h"
+
